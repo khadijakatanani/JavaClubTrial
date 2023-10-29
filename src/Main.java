@@ -16,7 +16,7 @@ public class Main {
     // String, double quotes, ""
     // char, single quotes, ''
 
-    String firstName = "Michael   ";
+    String firstName = "Michael";
     static String last_name = "Jackson";
 
     char digit = '3';
